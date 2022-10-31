@@ -22,12 +22,12 @@ body {
         align-items: center;
     }
     #logo{
-    align-items: centered;
+    align-items: center;
     height: auto;
     width: 100%;
     }
     .nav_links{
-    align-items: centered;
+    align-items: center;
     }
     .pricing{
         display: flex;
